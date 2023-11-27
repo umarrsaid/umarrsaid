@@ -27,15 +27,15 @@ I'm [Moh Umar Said](https://github.com/umarrsaid/), an dedicated and efficient f
 </p>
 
  ---
- 
+
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-  <p align="center">
+  
    [![Website Badge](https://img.shields.io/badge/-umarrsaid.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.io/umarrsaid/)](https://github.com/umarrsaid/) 
    [![Linkedin Badge](https://img.shields.io/badge/-umarrsaid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umarrsaid/)](https://www.linkedin.com/in/umarrsaid/)
    [![Gmail Badge](https://img.shields.io/badge/-umarrsaid-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umarr.said@gmail.com)](mailto:umarr.said@gmail.com)
- </p>
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
   </p>
 </p>
+
