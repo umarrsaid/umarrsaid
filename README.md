@@ -28,7 +28,7 @@ I'm [Moh Umar Said](https://github.com/umarrsaid/), an dedicated and efficient f
 
  ---
  
-<p align="center">
+<div align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
    [![Website Badge](https://img.shields.io/badge/-umarrsaid.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.io/umarrsaid/)](https://github.com/umarrsaid/) 
@@ -37,6 +37,6 @@ I'm [Moh Umar Said](https://github.com/umarrsaid/), an dedicated and efficient f
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
   </p>
-</p>
+</div>
 
 
