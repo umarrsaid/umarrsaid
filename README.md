@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/umarrsaid/umarrsaid/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Moh Umar Said](https://github.com/umarrsaid/), an dedicated and efficient full stack developer with 6+ years of experience in application layers, presentation layers and databases. Proficient in developing scalable web application using a wide range of front-end and back-end skills like PHP, HTML, CSS, Javascript, Golang etc..
+I'm [Moh Umar Said](https://github.com/umarrsaid/), an dedicated and efficient full stack developer with 6+ years of experience in application layers, presentation layers and databases. Proficient in developing scalable web application using a wide range of front-end and back-end skills like PHP, HTML, CSS, Javascript, Python, Golang etc..
 
  ---
  
